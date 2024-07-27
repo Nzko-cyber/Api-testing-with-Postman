@@ -1,7 +1,7 @@
 # Api-testing-with-Postman
 
 # Run command 
-$ newman run <Collection> -e <Environment> -r allure --reporter-allure-resultsDir <allure-results-out-dir>
+newman run <Collection> -e <Environment> -r allure --reporter-allure-resultsDir <allure-results-out-dir>
 
 # Link to Postman collection
 
