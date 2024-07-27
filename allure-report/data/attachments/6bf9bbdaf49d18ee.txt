@@ -1,0 +1,4 @@
+{
+  "name": "folder1.1belize.aas",
+  "parentId": "049560b2-b8f7-43a1-9dce-e0b2de43b8e0"
+}

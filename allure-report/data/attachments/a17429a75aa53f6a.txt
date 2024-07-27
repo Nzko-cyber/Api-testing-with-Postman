@@ -1,0 +1,7 @@
+{
+  "name": "MY_FIRST_DASHBOARD2",
+  "folderId": "591eec1f-3aca-40e4-9f32-4ff8249a8aca",
+  "description": "description",
+  "analaysisId": "85539792-20c1-4c7f-971c-09fe183ea221",
+  "type": 0
+}

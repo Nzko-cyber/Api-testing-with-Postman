@@ -1,0 +1,9 @@
+{
+  "type": 0,
+  "analaysisId": "461e518e-ad6b-4eaw-aaa2-dd4a64119c6d",
+  "description": "no desc",
+
+  "folderId": null,
+
+  "name": "K dashboard1 up"
+}

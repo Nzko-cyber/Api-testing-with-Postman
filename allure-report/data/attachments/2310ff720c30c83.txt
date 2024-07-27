@@ -1,0 +1,10 @@
+// @allure.label.story=Namespcae_story
+// @allure.label.suite=NamespaceTesting
+// @allure.label.owner=Kuvonch
+
+
+
+
+pm.test("Status code must be 400", function () {
+    pm.response.to.have.status(400);
+});

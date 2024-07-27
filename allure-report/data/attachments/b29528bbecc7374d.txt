@@ -1,0 +1,5 @@
+{
+  "name": " MarketingCampaign",
+  "description": "description",
+  "namespaceId": "6004a87f-3ebc-46c0-8ad9-7990b02e007f"
+}

@@ -1,0 +1,5 @@
+{
+  "name": " My-First-Project",
+  "description": "description",
+  "namespaceId": "61b66fc6-e43b-45b4-906c-dcb7fedb5905"
+}

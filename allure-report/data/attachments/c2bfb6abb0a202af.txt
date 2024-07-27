@@ -1,0 +1,9 @@
+// @allure.label.story=Namespcae_story
+// @allure.label.suite=NamespaceTesting
+// @allure.label.owner=Kuvonch
+// @allure.id=20
+// @allure.label.{{labelName}}={{labelValue}}
+
+
+
+

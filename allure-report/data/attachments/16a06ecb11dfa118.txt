@@ -1,0 +1,11 @@
+// @allure.label.story=Namespcae_story
+// @allure.label.suite=NamespaceTesting
+// @allure.label.owner=Kuvonch
+// @allure.label.{{labelName}}={{labelValue}}
+
+
+
+
+pm.test("Namespace didnt Create status code 400", function () {
+    pm.response.to.have.status(400);
+});

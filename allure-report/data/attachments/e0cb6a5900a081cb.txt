@@ -1,0 +1,5 @@
+{
+  "name": "Projectoverriding.azs",
+  "description": "description",
+  "namespaceId": "7113c209-f305-452b-9674-5346616dd265"
+}

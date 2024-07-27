@@ -1,0 +1,4 @@
+level: log, messages: crtwithspc:,
+level: log, messages: namespace:,http://5.182.26.202:5051/api/Namespace
+level: error, messages: Переменные среды не заданы.
+level: warn, messages: Using "postman.setNextRequest" is deprecated. Use "pm.execution.setNextRequest()" instead.

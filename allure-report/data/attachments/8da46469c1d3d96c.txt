@@ -1,0 +1,1 @@
+{"id":"d435383f-79f7-4f36-a3f9-a5994280ce01","name":"Projectcalculate_deliver_senior.x3dz","description":"description","namespaceId":"04713afa-a852-4b6d-b9b0-e8528dfda442","createdAt":"2024-07-27T08:09:07.0326477+00:00","createdBy":null,"lastModifiedAt":"2024-07-27T08:09:07.0326485+00:00","lastModifiedBy":null}

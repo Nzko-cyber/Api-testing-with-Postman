@@ -1,0 +1,5 @@
+{
+  "name": "K analys2  Fundamental",
+  "folderId": "21123213123123123",
+  "description":"dawdawdawdawd"
+}

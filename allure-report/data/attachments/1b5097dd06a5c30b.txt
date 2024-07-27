@@ -1,0 +1,9 @@
+// @allure.label.story=Namespcae_story
+// @allure.label.suite=NamespaceTesting
+// @allure.label.owner=Kuvonch
+
+
+
+pm.test("Must return Error 415", function () {
+    pm.response.to.have.status(415);
+});

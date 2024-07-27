@@ -1,0 +1,7 @@
+{
+  "name": "Report_of_sales",
+  "folderId": "25214382-e699-4202-9629-f9cc6e271330",
+  "description": "description",
+  "analaysisId": "690b274d-131c-46dd-888f-d0baa2306338",
+  "type": 0
+}

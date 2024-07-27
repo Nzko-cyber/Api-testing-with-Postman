@@ -1,0 +1,5 @@
+{
+  "name": "Analyse2switchable.ait",
+  "folderId": "82a74822-3632-46bf-9d06-f1e68635620a",
+  "description": "description"
+}

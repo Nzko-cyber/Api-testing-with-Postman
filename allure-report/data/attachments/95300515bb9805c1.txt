@@ -1,0 +1,5 @@
+{
+  "name": "Analyse2ways_soft_png.ktx",
+  "folderId": "06b47a39-a942-4f69-b71c-d9f31a9686a5",
+  "description": "description"
+}

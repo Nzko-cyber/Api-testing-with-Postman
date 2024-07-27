@@ -1,0 +1,1 @@
+{"errors":{"command":["The command field is required."],"analaysisId":["After parsing a value an unexpected character was encountered: t. Path 'analaysisId', line 4, position 20."]},"type":"https://tools.ietf.org/html/rfc9110#section-15.5.1","title":"One or more validation errors occurred.","status":400,"traceId":"00-3e6b03c3ac03eab0e911d091cf42de63-37c2bb7ddd905c7d-00"}

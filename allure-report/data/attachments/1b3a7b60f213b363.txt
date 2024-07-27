@@ -1,0 +1,7 @@
+{
+  "name": "Dashboard2keyboard_collaborative_withdrawal.mpp",
+  "folderId": "82a74822-3632-46bf-9d06-f1e68635620a",
+  "description": "description",
+  "analaysisId": "be5e988b-6ff3-4ed1-822c-196379b5d6d9",
+  "type": 0
+}

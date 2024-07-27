@@ -1,0 +1,1 @@
+{"id":"788e0af1-1c29-4cb8-bb15-614fa142403b","name":"FirstSpace Account","description":"Only for Kuvonch","createdAt":"2024-07-27T08:39:40.1183825+00:00","createdBy":null,"lastModifiedAt":"2024-07-27T08:39:40.1183834+00:00","lastModifiedBy":null}

@@ -1,0 +1,5 @@
+{
+  "name": "DetailedSalesReport",
+  "folderId": "d0a22e7b-97ca-442e-9f22-331b4e059137",
+  "description": "description"
+}

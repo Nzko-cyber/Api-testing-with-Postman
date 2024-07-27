@@ -1,0 +1,4 @@
+{
+  "name": "FirstSpace Sausages",
+  "description": "Yaratilmasligi kerak"
+}

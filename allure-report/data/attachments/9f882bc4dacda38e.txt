@@ -1,0 +1,5 @@
+{
+  "name": "Cambridgeshire",
+  "description": "stringawd wireless",
+  "namespaceId": "a8bbea47-17cb-4213-bf76-8ebdde396dc2"
+}

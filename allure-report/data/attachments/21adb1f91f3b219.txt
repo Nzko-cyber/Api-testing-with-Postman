@@ -1,0 +1,5 @@
+{
+ "id":"bb00dbd3-0c76-43af-a37b-4076f93a8d1e",
+  "name": "FirstSpace Tactics",
+  "description": "Only for Kuvonch"
+}

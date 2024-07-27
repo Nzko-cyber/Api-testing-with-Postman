@@ -1,0 +1,13 @@
+// @allure.label.story=Artefacts_story
+// @allure.label.suite=ArtefactsTesting
+// @allure.label.owner=Kuvonch
+
+
+var response = pm.response.text();
+
+pm.environment.set("af2", response);
+
+
+pm.test("Analys Should be created ", function () {
+    pm.response.to.have.status(200);
+});

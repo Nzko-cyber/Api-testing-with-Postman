@@ -1,0 +1,11 @@
+{
+  "id": "4c7016f1-6477-4791-b2f4-aa5b3b04c3aa",
+  "name": "k dashboard 1 edited content",
+  
+ 
+  "description": "stridndwag",
+  "type": 0,
+   "folderId":"awdwadwadwda"
+
+
+}

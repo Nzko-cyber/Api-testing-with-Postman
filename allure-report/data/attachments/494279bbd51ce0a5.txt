@@ -1,0 +1,1 @@
+{"errors":{"Name":["The Name field is required."]},"type":"https://tools.ietf.org/html/rfc9110#section-15.5.1","title":"One or more validation errors occurred.","status":400,"traceId":"00-6bdc20d5df269af2fb1d59d8f68b6b80-da19fa64a3276a76-00"}

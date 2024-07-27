@@ -1,0 +1,7 @@
+{
+  "name": "Dashboard1netherlands_berkshire_shoes.123",
+  "folderId": "34be0cb1-7c5e-4f64-a1b2-3c9cb5f4df4b",
+  "description": "description",
+  "analaysisId": "cf826a8e-102a-445a-8208-851e82e1480b",
+  "type": 0
+}

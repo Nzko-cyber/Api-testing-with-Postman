@@ -1,0 +1,31 @@
+// @allure.label.story=CovarageTest1
+// @allure.label.suite=CovarageTest1
+// @allure.label.owner=Ulug'bek
+
+
+
+let response = pm.response.json();
+const dashboards = response.counts.resources.Dashboard;
+const analysis = response.counts.resources.Analysis;
+const folders = response.counts.folder;
+let totalCount = dashboards+analysis+folders;
+
+pm.test("Total count of files should be equal to 9", function () {
+    pm.expect(totalCount).to.eql(9);
+});
+
+pm.test("Total count of folders should be equal to 5",  function (){
+    pm.expect(folders).to.eql(5);
+})
+
+pm.test("Total count of dashboards should be equal to 2",  function (){
+    pm.expect(dashboards).to.eql(2);
+})
+
+pm.test("Total count of analysis should be equal to 2",  function (){
+    pm.expect(analysis).to.eql(2);
+
+
+})
+
+

@@ -1,0 +1,8 @@
+// @allure.label.story=Namespcae_story
+// @allure.label.suite=NamespaceTesting
+// @allure.label.owner=Kuvonch
+
+
+pm.test("Shouldnt be updated' Created status code 400", function () {
+    pm.response.to.have.status(400);
+});

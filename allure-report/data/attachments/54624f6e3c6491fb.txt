@@ -1,0 +1,4 @@
+{
+   "name":"Lodge",
+  "descriptionn": "Only for Kuvonch"
+}

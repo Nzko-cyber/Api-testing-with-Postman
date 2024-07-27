@@ -1,0 +1,34 @@
+// @allure.label.story=Artefacts_story
+// @allure.label.suite=ArtefactsTesting
+// @allure.label.owner=Kuvonch
+
+
+var space = pm.response.json();
+
+
+pm.test("Should return an object", () => {
+  pm.expect(space).to.be.an("object");
+});
+
+pm.test('Schema is valid', function () {
+  const schema = {
+    "type": "object",
+    "properties": {
+      "id": {"type": "string"},
+      "projectId": {"type": ["string", "null"]},
+      "name": {"type": "string"},
+      "description": {"type": "string"},
+      "folderId": {"type": "string"},
+      "createdAt": {"type": "string", "format": "date-time"},
+      "createdBy": {"type": ["string", "null"]},
+      "lastModifiedAt": {"type": "string", "format": "date-time"},
+      "lastModifiedBy": {"type": ["string", "null"]}
+    },
+    "required": ["id", "projectId", "name", "description", "folderId", "createdAt", "createdBy", "lastModifiedAt", "lastModifiedBy"]
+  };
+  pm.response.to.have.jsonSchema(schema);
+});
+
+pm.test("should return the Dashboard selected by id status code 200", function () {
+    pm.response.to.have.status(200);
+});

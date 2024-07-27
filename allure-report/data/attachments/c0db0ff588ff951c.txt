@@ -1,0 +1,21 @@
+// @allure.label.story=Namespcae_story
+// @allure.label.suite=NamespaceTesting
+// @allure.label.owner=Kuvonch
+
+
+// @allure.id=9
+// @allure.label.{{labelName}}={{labelValue}}
+
+
+
+
+// Получите ответ в виде текста
+let projectd1 = pm.response.text();
+
+// Предположим, что ответ - это простой ID
+pm.environment.set("verylongname", projectd1);
+
+pm.test("namespace should be created", function () {
+    pm.response.to.have.status(200);
+});
+

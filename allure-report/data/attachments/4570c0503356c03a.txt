@@ -1,0 +1,4 @@
+{
+  "name": "Future-proofed",
+  "description": "Only for Kuvonch"
+}

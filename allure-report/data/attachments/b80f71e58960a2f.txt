@@ -1,0 +1,4 @@
+{
+  "name": "FirstSpace transmitter",
+  "description": "Only for Kuvonch"
+}

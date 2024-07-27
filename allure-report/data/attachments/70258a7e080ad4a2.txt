@@ -1,0 +1,7 @@
+{
+
+  "folderId": "a286bf7f-10b4-43ee-a53d-5aa223bf5055",
+  "description": "striawdwadng",
+  "name": "K analys2 Assistant"
+
+}

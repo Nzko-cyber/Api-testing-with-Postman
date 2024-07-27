@@ -1,0 +1,13 @@
+// @allure.label.story=Artefacts_story
+// @allure.label.suite=ArtefactsTesting
+// @allure.label.owner=Kuvonch
+
+
+let projectd1 = pm.response.text();
+
+
+pm.environment.set("dashdef", projectd1);
+
+pm.test("Dashboard Should be created ", function () {
+    pm.response.to.have.status(200);
+});

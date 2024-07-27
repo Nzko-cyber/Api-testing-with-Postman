@@ -1,0 +1,7 @@
+{
+  "name": "MonthlyDashboard",
+  "folderId": "bfb1d0b4-32e6-479b-86d5-ae1639a9acfd",
+  "description": "description",
+  "analaysisId": "fdeccf26-ae4b-462c-b95c-40536af3c9e2",
+  "type": 0
+}

@@ -1,0 +1,7 @@
+{
+  "name": "Dashboard1mission_critical_steel_computer.sea",
+  "folderId": "d8d23561-b93e-49ea-93d3-9e39e75643d9",
+  "description": "description",
+  "analaysisId": "c1c4fc5d-204b-467d-a3a1-2ec7f5484b6e",
+  "type": 0
+}

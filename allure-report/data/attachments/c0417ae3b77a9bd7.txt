@@ -1,0 +1,5 @@
+{
+ "id":"0a90da97-fa3f-46b6-8f3a-0f4452c31346",
+  "name": "FirstSpace transmitter",
+  "description": "Only for Kuvonch"
+}

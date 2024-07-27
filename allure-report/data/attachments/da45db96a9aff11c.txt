@@ -1,0 +1,7 @@
+{
+  "id": "061b06fe-28cb-4226-90d7-d8555611b1e6",
+  "name": "k dashboard 1 edited Industrial",
+  "description": "stridndwag",
+  "type": 0
+
+}

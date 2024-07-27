@@ -1,0 +1,13 @@
+// @allure.label.story=Namespcae_story
+// @allure.label.suite=NamespaceTesting
+// @allure.label.owner=Kuvonch
+// @allure.id=21
+// @allure.label.{{labelName}}={{labelValue}}
+
+
+
+
+
+pm.test("Namespace should be created with @#$", function () {
+    pm.response.to.have.status(200);
+});

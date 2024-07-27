@@ -1,0 +1,9 @@
+// @allure.label.story=Namespcae_story
+// @allure.label.suite=NamespaceTesting
+// @allure.label.owner=Kuvonch
+
+
+
+pm.test("Should return Namespace not Found", function () {
+    pm.response.to.have.status(405);
+});

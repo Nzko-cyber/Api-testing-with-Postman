@@ -1,0 +1,6 @@
+{
+  "id": "0bfade98-d89e-4eea-8473-49630e02aaef",
+  "name": "string",
+  "description": "string",
+  "type": 0
+}

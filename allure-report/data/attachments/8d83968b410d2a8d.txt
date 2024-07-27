@@ -1,0 +1,5 @@
+{
+  "name": "K analys2  calculate",
+  "folderId": "{{folderdef}}",
+  "description":dawdawdawdawd
+}

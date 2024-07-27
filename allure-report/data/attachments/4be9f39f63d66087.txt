@@ -1,0 +1,4 @@
+{
+  "name": "Fish",
+  "description": "Only for Kuvonch"
+}

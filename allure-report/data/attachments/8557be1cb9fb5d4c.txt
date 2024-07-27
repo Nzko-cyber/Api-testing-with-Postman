@@ -1,0 +1,4 @@
+{
+  "name": "folder1common_capacitor_upward_trending.txt",
+  "parentId": null
+}

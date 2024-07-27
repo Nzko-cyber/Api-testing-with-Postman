@@ -1,0 +1,12 @@
+// @allure.label.story=CovarageTest2
+// @allure.label.suite=CovarageTest2
+// @allure.label.owner=Ulug'bek
+
+
+
+var response = pm.response.text();
+pm.test("Is status code 200", () => {
+    pm.response.to.have.status(200);
+});
+
+pm.environment.set("Report_of_first_month", response);

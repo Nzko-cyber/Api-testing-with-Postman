@@ -1,0 +1,7 @@
+{
+  "name": "Report_of_first_month",
+  "folderId": "55aaedfd-40e2-496b-ab93-b8efd69e2f53",
+  "description": "description",
+  "analaysisId": "6cba9d8d-8d6b-4f1a-b839-a780116d29b0",
+  "type": 0
+}

@@ -1,0 +1,4 @@
+{
+  "name": "FirstSpace Tactics",
+  "description": "Only for Kuvonch"
+}

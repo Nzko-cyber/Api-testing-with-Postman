@@ -1,0 +1,10 @@
+// @allure.label.story=CovarageTest3
+// @allure.label.suite=CovarageTest3
+// @allure.label.owner=Ulug'bek
+
+
+var response = pm.response;
+
+pm.test("Should status code 400(not found)", () => {
+    pm.response.to.have.status(400);
+});

@@ -1,0 +1,19 @@
+// @allure.label.story=Namespcae_story
+// @allure.label.suite=NamespaceTesting
+// @allure.label.owner=Kuvonch
+
+
+
+
+pm.test("Namespace Created status code 200", function () {
+    pm.response.to.have.status(200);
+});
+
+let projectd1 = pm.response.text();
+
+
+pm.environment.set("secondspace", projectd1);
+
+var requestData = JSON.parse(pm.request.body.raw);
+pm.environment.set("dynamicName2", requestData.name);
+

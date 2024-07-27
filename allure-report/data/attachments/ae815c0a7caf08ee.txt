@@ -1,0 +1,1 @@
+{"id":"8d0fa307-3815-4b97-a2ad-42e9fbbf9401","name":"FirstSpace Business-focused","description":"Only for Kuvonch","createdAt":"2024-07-27T08:27:35.0197589+00:00","createdBy":null,"lastModifiedAt":"2024-07-27T08:27:35.0197598+00:00","lastModifiedBy":null}

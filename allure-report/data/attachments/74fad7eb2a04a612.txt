@@ -1,0 +1,4 @@
+{
+  "name": "FirstSpace Account",
+  "description": "Only for Kuvonch"
+}

@@ -1,0 +1,5 @@
+{
+  "name": "Folder2.1rss_account.ddd",
+  "parentId": "d8d23561-b93e-49ea-93d3-9e39e75643d9"
+
+}

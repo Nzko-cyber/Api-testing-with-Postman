@@ -1,0 +1,17 @@
+// Получить значение переменной crtwithspc
+var crtwithspc = pm.environment.get("crtwithspc");
+console.log("crtwithspc:", crtwithspc);
+
+// Получить значение переменной namespace
+var namespace = pm.environment.get("namespace");
+console.log("namespace:", namespace);
+
+// Убедиться, что переменные не пустые
+if (!namespace || !crtwithspc) {
+    console.error("Переменные среды не заданы.");
+    postman.setNextRequest(null);
+} else {
+    // Установить новый URL для запроса
+    pm.request.url = namespace + "/" + crtwithspc;
+    console.log("URL запроса:", pm.request.url.toString());
+}

@@ -1,0 +1,7 @@
+{
+  "id": "2f969510-3947-4a12-99c1-1ee5a9280cb6",
+  "name": "k dashboard 1 edited Interactions",
+  "description": "stridndwag",
+  "type": 0
+
+}

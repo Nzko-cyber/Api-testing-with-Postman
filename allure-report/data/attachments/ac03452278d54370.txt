@@ -1,0 +1,7 @@
+{
+  "name": "Dashboard2withdrawal_homogeneous.twds",
+  "folderId": "ad79cf11-60f1-4da2-9760-75d167a73b02",
+  "description": "description",
+  "analaysisId": "cb1b97a6-11a2-4491-a689-aba6b7b3df40",
+  "type": 0
+}

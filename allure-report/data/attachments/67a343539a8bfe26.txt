@@ -1,0 +1,4 @@
+{
+  "name": "folder1fresh_center_public_key.stk",
+  "parentId": null
+}

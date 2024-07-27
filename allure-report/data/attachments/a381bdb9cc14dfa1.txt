@@ -1,0 +1,7 @@
+{
+  "name": "Dashboard2total_invoice.wbs",
+  "folderId": "e3a62463-7855-4f40-8bdb-c6e5f176173a",
+  "description": "description",
+  "analaysisId": "d30bc1b0-5950-4271-91f2-c9399284b417",
+  "type": 0
+}

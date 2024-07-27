@@ -1,0 +1,4 @@
+{
+  "name": "FirstSpace Tactics",
+  "description": "Yaratilmasligi kerak"
+}

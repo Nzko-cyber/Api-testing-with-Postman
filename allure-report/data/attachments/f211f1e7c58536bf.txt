@@ -1,0 +1,8 @@
+
+
+pm.test("Namespace should be created with no order ", function () {
+    pm.response.to.have.status(200);
+});
+allure.epic('Backend Testing');
+allure.feature('API Testing');
+allure.story('Namespace');

@@ -1,0 +1,14 @@
+// @allure.label.story=CovarageTest3
+// @allure.label.suite=CovarageTest3
+// @allure.label.owner=Ulug'bek
+
+
+var response = pm.response.json();
+
+pm.test("Should status code 200", () => {
+    pm.response.to.have.status(200);
+});
+
+pm.test("Should descriptoin changed", () => {
+    pm.expect("Changed").to.eql(response.description);
+});

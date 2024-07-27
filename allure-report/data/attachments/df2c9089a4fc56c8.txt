@@ -1,0 +1,14 @@
+// @allure.label.story=Namespcae_story
+// @allure.label.suite=NamespaceTesting
+// @allure.label.owner=Kuvonch
+
+// @allure.id=17
+// @allure.label.{{labelName}}={{labelValue}}
+
+
+
+
+
+pm.test("Should return to first page", function () {
+    pm.response.to.have.status(200);
+});

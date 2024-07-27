@@ -1,0 +1,10 @@
+// @allure.label.story=Namespcae_story
+// @allure.label.suite=NamespaceTesting
+// @allure.label.owner=Kuvonch
+
+
+
+
+pm.test("Namespace deleted  status code 204", function () {
+    pm.response.to.have.status(204);
+});

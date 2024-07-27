@@ -1,0 +1,5 @@
+{
+  "name": "analyse1manat_auxiliary.x3dz",
+  "folderId": "71e7e784-9f93-4564-b699-79865a7d6e25",
+  "description": "description"
+}

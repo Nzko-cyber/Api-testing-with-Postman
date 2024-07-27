@@ -1,0 +1,7 @@
+{
+  "name": "Dashboard2panel_rest_infrastructure.listafp",
+  "folderId": "ee99df23-04d9-4b0c-a9a1-1b4328a6d3ec",
+  "description": "description",
+  "analaysisId": "59b410ac-95a0-4f4c-89c2-382830ceff34",
+  "type": 0
+}

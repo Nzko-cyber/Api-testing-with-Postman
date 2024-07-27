@@ -1,0 +1,7 @@
+{
+  "id": "161070ae-cef2-4dd9-99ac-4180bb4e5dee",
+  "name": "k dashboard 1 edited input",
+  "description": "stridndwag",
+  "type": 0
+
+}

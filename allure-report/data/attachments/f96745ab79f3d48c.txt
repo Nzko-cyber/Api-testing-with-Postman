@@ -1,0 +1,4 @@
+{
+  "name": "FirstSpace Business-focused",
+  "description": "Only for Kuvonch"
+}

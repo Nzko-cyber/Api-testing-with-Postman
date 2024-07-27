@@ -1,0 +1,5 @@
+{
+  "name": "Analyse2generic.m3u",
+  "folderId": "ad79cf11-60f1-4da2-9760-75d167a73b02",
+  "description": "description"
+}

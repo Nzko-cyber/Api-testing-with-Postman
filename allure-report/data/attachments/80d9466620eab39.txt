@@ -1,0 +1,7 @@
+{
+  "name": "K dashboard1 RAM",
+  "folderId": "88ee8b1c-dd29-4612-ad6f-7a401a24f804",
+  "description": "no desc",
+  "analaysisId": "ce6687e8-d6a5-416b-83e1-f60586bf8856",
+  "type": 0
+}

@@ -1,0 +1,5 @@
+{
+  "name": "K analys2  Krona",
+  "folderId": "b6d4fc9b-f555-438d-885a-fad3cfa402a7",
+  "description": "strinadawdwadawg"
+}

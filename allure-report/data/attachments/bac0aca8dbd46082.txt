@@ -1,0 +1,7 @@
+{
+
+  "folderId": "b6d4fc9b-f555-438d-885a-fad3cfa402a7",
+  "description": "striawdwadng",
+  "name": "K analys2 frictionless"
+
+}

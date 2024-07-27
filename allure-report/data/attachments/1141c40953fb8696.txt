@@ -1,0 +1,1 @@
+{"id":"d2f32f93-774b-4f37-bdd6-8df03992714b","name":" MarketingCampaign","description":"description","namespaceId":"c5eb96fe-a514-4ab7-93af-5901b66cdeb0","createdAt":"2024-07-27T08:09:19.2647974+00:00","createdBy":null,"lastModifiedAt":"2024-07-27T08:09:19.2647984+00:00","lastModifiedBy":null}

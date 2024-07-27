@@ -1,0 +1,17 @@
+
+// @allure.label.story=Artefacts_story
+// @allure.label.suite=ArtefactsTesting
+// @allure.label.owner=Kuvonch
+
+
+// Получите ответ в виде текста
+let projectd1 = pm.response.text();
+
+// Предположим, что ответ - это простой ID
+pm.environment.set("analysiddef", projectd1);
+
+
+pm.test("Must return Error", function () {
+    pm.response.to.have.status(400);
+});
+

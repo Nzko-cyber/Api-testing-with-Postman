@@ -1,0 +1,1 @@
+{"id":"1299c1a7-096c-43ae-91bd-833e03d2d273","name":"NameSpace","description":"description","createdAt":"2024-07-27T08:05:51.4527321+00:00","createdBy":null,"lastModifiedAt":"2024-07-27T08:05:51.4527331+00:00","lastModifiedBy":null}

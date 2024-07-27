@@ -1,0 +1,29 @@
+// @allure.label.story=CovarageTest3
+// @allure.label.suite=CovarageTest3
+// @allure.label.owner=Ulug'bek
+
+
+var space = pm.response.json();
+pm.test("Should return an object", () =>  {
+	pm.expect(space).to.be.an("object");
+})
+console.log(space)
+pm.test('Schema should be valid', function () {
+const schema = {
+  "type": "object",
+  "properties": {
+    "id": {"type": "string"},
+    "name": {"type": "string"},
+    "description": {"type": "string"},
+    "createdAt": {"type": "string"},
+    "createdBy": {
+        "type": ["string", "null"]
+    },
+    "lastModifiedAt ": {"type": "string"}, 
+    "lastModifiedBy": {
+        "type": ["string", "null"]
+    }
+  }
+};
+pm.response.to.have.jsonSchema(schema);
+});

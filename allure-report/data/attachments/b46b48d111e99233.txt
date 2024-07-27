@@ -1,0 +1,7 @@
+{
+  "name": "K dashboard1 Dollar",
+  "folderId": "88ee8b1c-dd29-4612-ad6f-7a401a24f804",
+  "description": "no desc",
+  "analaysisId": "fbb90ab2-f4e5-4994-a07a-025c772409c8",
+  "type": 0
+}

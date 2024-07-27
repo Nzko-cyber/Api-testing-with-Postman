@@ -1,0 +1,5 @@
+// @allure.label.story=CovarageTest1
+// @allure.label.suite=CovarageTest1
+// @allure.label.owner=Ulug'bek
+
+

@@ -1,0 +1,7 @@
+{
+  "name": "Dashboard1sports_implementation.rgb",
+  "folderId": "21a0e55f-da65-49ad-9b54-bb9001a7878b",
+  "description": "description",
+  "analaysisId": "4c63660d-e7a9-4195-82ce-27ce9400d243",
+  "type": 0
+}

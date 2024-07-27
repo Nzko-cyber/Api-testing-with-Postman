@@ -1,0 +1,1 @@
+{"id":"4e4d75cc-72cb-4237-9378-766f8e8bc0a6","projectId":"bfca243e-8bfd-44c3-b4b3-aa2fe63c239d","name":"edit analys Practical","description":"no desc","folderId":"d256ebd9-9993-4f82-88c7-dab20cbd7a10","createdAt":"2024-07-27T08:05:48.1429389+00:00","createdBy":null,"lastModifiedAt":"2024-07-27T08:05:48.1429395+00:00","lastModifiedBy":null}

@@ -1,0 +1,14 @@
+// @allure.label.story=Namespcae_story
+// @allure.label.suite=NamespaceTesting
+// @allure.label.owner=Kuvonch
+// @allure.id=24
+// @allure.label.{{labelName}}={{labelValue}}
+
+
+
+
+
+
+pm.test("Must return empty array ", function () {
+    pm.response.to.have.status(200);
+});

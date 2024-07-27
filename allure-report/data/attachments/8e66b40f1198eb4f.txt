@@ -1,0 +1,7 @@
+{
+  "name": "Dashboard1jersey.vox",
+  "folderId": "c375f938-769c-402b-a54e-2b67576ec614",
+  "description": "description",
+  "analaysisId": "d470b0b6-525b-4f5b-a538-70b885b78cb2",
+  "type": 0
+}

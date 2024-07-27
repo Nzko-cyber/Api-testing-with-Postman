@@ -1,0 +1,7 @@
+{
+  "name": "K dashboard1 Investor",
+  "folderId": "88ee8b1c-dd29-4612-ad6f-7a401a24f804",
+  "description": "no desc",
+  "analaysisId": "4e4d75cc-72cb-4237-9378-766f8e8bc0a6",
+  "type": 0
+}

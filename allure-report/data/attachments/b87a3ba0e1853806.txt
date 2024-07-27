@@ -1,0 +1,13 @@
+// @allure.label.story=CovarageTest3
+// @allure.label.suite=CovarageTest3
+// @allure.label.owner=Ulug'bek
+
+
+var response = pm.response.json();
+pm.test("Should status code 400", () => {
+    pm.response.to.have.status(400);
+});
+pm.test("Should throw error 'The Name field is required'", () => {
+    pm.expect('The Name field is required.').to.eql(response.errors["Name"][0]);
+});
+pm.variables.get("variable_key");

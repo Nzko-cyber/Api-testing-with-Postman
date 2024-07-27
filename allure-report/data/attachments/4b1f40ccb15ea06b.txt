@@ -1,0 +1,7 @@
+{
+  "name": "Dashboard1somoni_cyan.roa",
+  "folderId": "71e7e784-9f93-4564-b699-79865a7d6e25",
+  "description": "description",
+  "analaysisId": "f886f2d2-dfa5-48ac-bdb6-a1a741999b27",
+  "type": 0
+}

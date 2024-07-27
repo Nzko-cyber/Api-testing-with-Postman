@@ -1,0 +1,9 @@
+{
+  "type": 0,
+  "analaysisId": "461e518e-ad6b-4efd-9a42-0f4a64119c6d",
+  "description": "no desc",
+
+  "folderId": "9e5cd71b-673e-48d0-889e-5fb23d9b7212",
+
+  "name": "K dashboard1 incubate"
+}
